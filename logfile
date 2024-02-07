@@ -1,0 +1,26 @@
+Performing Variant Calling with freebayes:
+
+in for loop
+SRR11621811.bam
+covid19-refseq.fasta
+SRR11772640.bam
+covid19-refseq.fasta
+SRR11851929.bam
+covid19-refseq.fasta
+SRR11953870.bam
+covid19-refseq.fasta
+SRR11954244.bam
+covid19-refseq.fasta
+SRR12045940.bam
+covid19-refseq.fasta
+SRR12272284.bam
+covid19-refseq.fasta
+SRR12291581.bam
+covid19-refseq.fasta
+Merging variants using jacquard
+
+for information, please see: https://jacquard.readthedocs.io/en/v0.42/overview.html#why-would-i-use-jacquard
+
+Merge VCFs using jacquard
+
+Time taken: 24
